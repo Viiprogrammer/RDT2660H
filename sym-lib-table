@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rdt260h")(type "KiCad")(uri "${KIPRJMOD}/rdt260h.kicad_sym")(options "")(descr ""))
+)
